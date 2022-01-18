@@ -4,7 +4,7 @@ g
 % Auth/Revision:  AH 
 %                 Copyright 2016 The MathWorks AEG Group 
 %                 $Id$
-
+% Add comment
 c = a+b+6;
 
 end %function
